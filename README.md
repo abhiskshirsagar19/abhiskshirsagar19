@@ -61,4 +61,4 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me on [LinkedIn](https://linkedin.com/in/your-profile).
+Thank you for visiting my GitHub profile! Feel free to check out my repositories and connect with me on [LinkedIn]( https://www.linkedin.com/in/abhishek-kshirsagar-aab43916a/).
