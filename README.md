@@ -10,24 +10,26 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 
 ## 🚀 Projects
 
-### 1. [Project Name 1]
+### 1. [Video Streaming App UI]
 **Description**: A brief description of what the project does or solves.
 - **Tech Stack**: React, Tailwind CSS
 - **Features**: Key features of the project
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Video_Streaming_App)
 - **Demo**: [Link to demo](https://video-streaming-app-rosy.vercel.app/)
   
-### 2. [Project Name 2]
+### 2. [Todo App]
+**Description**: A brief description of what the project does or solves.
+- **Tech Stack**: React, CSS
+- **Features**: Key features of the project
+- **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Todo-Apps-with-drag-and-drop)
+- **Demo**: [Link to demo](https://todo-apps-with-drag-and-drop.vercel.app/)
+  
+### 3. [Memory Game]
 **Description**: A brief description of what the project does or solves.
 - **Tech Stack**: MongoDB, Express.js, React, Node.js
 - **Features**: Key features of the project
-- **Repo**: [Link to repository](https://github.com/your-username/project-2)
-
-### 3. [Project Name 3]
-**Description**: A brief description of what the project does or solves.
-- **Tech Stack**: MongoDB, Express.js, React, Node.js
-- **Features**: Key features of the project
-- **Repo**: [Link to repository](https://github.com/your-username/project-3)
+- **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Memory-Game)
+- **Demo**: [Link to demo](https://memory-game-eta-drab.vercel.app/)
 
 ---
 
