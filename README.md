@@ -55,7 +55,6 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 
 ## 🌱 What I'm Currently Learning
 - **Advanced React patterns**
-- **GraphQL with Node.js**
 - **TypeScript**
 
 ---
