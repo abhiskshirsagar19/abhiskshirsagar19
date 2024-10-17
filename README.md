@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Developer | MERN Stack Developer
 
-I'm a passionate full-stack developer with **2.6 years** of total experience, with **2.2 years** of specialization in the **MERN stack**. I love building responsive and efficient web applications, focusing on performance and scalability.
+I'm a passionate full-stack developer with **2.6 years** of total experience, with specialization in the **MERN stack**. I love building responsive and efficient web applications, focusing on performance and scalability.
 
 Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full-Stack Development and constantly stay on top of the latest industry trends.
 
@@ -12,9 +12,10 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 
 ### 1. [Project Name 1]
 **Description**: A brief description of what the project does or solves.
-- **Tech Stack**: MongoDB, Express.js, React, Node.js
+- **Tech Stack**: React, Tailwind CSS
 - **Features**: Key features of the project
-- **Repo**: [Link to repository](https://github.com/your-username/project-1)
+- **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Video_Streaming_App)
+- **Demo**: [Link to demo](https://video-streaming-app-rosy.vercel.app/)
   
 ### 2. [Project Name 2]
 **Description**: A brief description of what the project does or solves.
