@@ -33,23 +33,27 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ I code with
 
-### Frontend
-- **Languages**: HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries**: React, Redux, Tailwind CSS, Bootstrap
-- **Tools**: Webpack, Babel, Git, NPM
+###
 
-### Backend
-- **Languages**: JavaScript (Node.js)
-- **Frameworks**: Express.js
-- **Databases**: MongoDB, Mongoose
-- **Authentication**: JWT, OAuth
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-### Others
-- **Version Control**: Git, GitHub
-- **Cloud**: GCP
-- **Testing**: Jest,
+###
 ---
 ## 💻 Work Experience
 - **Software Engineer** at **HCLTech** [Feb 2022 to Aug 2024]
