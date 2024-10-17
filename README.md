@@ -69,6 +69,8 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 
 - **LinkedIn**: https://www.linkedin.com/in/abhishek-kshirsagar-aab43916a/
 - **Email**: kshirsagar.abhishek19@gmail.com
+- **Medium**: https://medium.com/@abhikshirsagar1999
+- **X**: https://x.com/Abhi_k1919
 
 ---
 
