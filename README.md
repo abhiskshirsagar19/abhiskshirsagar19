@@ -48,17 +48,10 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 
 ### Others
 - **Version Control**: Git, GitHub
-- **Cloud**: AWS, Heroku
-- **Testing**: Jest, Mocha, Chai
-
+- **Cloud**: GCP
+- **Testing**: Jest,
 ---
-
-## 🌱 What I'm Currently Learning
-- **Advanced React patterns**
-- **TypeScript**
-
----
-## Work Experience
+## 💻 Work Experience
 - **Software Engineer** at **HCLTech** [Feb 2022 to Aug 2024]
 
 ## 📫 Let's Connect
