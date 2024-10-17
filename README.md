@@ -58,6 +58,8 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 - **TypeScript**
 
 ---
+## Work Experience
+- **Software Engineer** at **HCLTech** [Feb 2022 to Aug 2024]
 
 ## 📫 Let's Connect
 
