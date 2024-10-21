@@ -10,28 +10,28 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 
 ## 🚀 Projects
 
-### 1. [Video Streaming App UI]
+### 🎯 [Video Streaming App UI only]
 **Description**: Video streaming UI web app intergarating TMDB API.
 - **Tech Stack**: React, Tailwind CSS
 - **Features**: Key features of the project
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Video_Streaming_App)
 - **Demo**: [Link to demo](https://video-streaming-app-rosy.vercel.app/)
   
-### 2. [Todo App]
+### 🎯 [Todo App]
 **Description**: Todo board with Drag and drop functionality.
 - **Tech Stack**: React, CSS
 - **Features**: Key features of the project
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Todo-Apps-with-drag-and-drop)
 - **Demo**: [Link to demo](https://todo-apps-with-drag-and-drop.vercel.app/)
   
-### 3. [Memory Game]
+### 🎯 [Memory Game]
 **Description**: Memory game to sharpen the memory.
 - **Tech Stack**: MongoDB, Express.js, React, Node.js
 - **Features**: Key features of the project
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Memory-Game)
 - **Demo**: [Link to demo](https://memory-game-eta-drab.vercel.app/)
 
-### 4. [TODO List Using RTK]
+### 🎯 [TODO List Using RTK]
 **Description**: Todo List using RTK.
 - **Tech Stack**: React, CSS, RTK
 - **Features**: Key features of the project
