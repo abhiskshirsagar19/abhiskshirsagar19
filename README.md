@@ -13,28 +13,30 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 ### 🎯 [Video Streaming App UI only]
 **Description**: Video streaming UI web app intergarating TMDB API.
 - **Tech Stack**: React, Tailwind CSS
-- **Features**: Key features of the project
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Video_Streaming_App)
 - **Demo**: [Link to demo](https://video-streaming-app-rosy.vercel.app/)
-  
+
+### 🎯 [Task Manager]
+**Description**: Fullstack taskmanager app where user can Register, Login, Add task, Update task, Delete task.
+- **Tech Stack**: React, Tailwind CSS, Node, Express, MongoDB
+- **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/MERN-stack-Todo-App)
+- **Demo**: [Link to demo](https://mern-stack-todo-app-rouge.vercel.app/login)
+    
 ### 🎯 [Todo App]
 **Description**: Todo board with Drag and drop functionality.
 - **Tech Stack**: React, CSS
-- **Features**: Key features of the project
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Todo-Apps-with-drag-and-drop)
 - **Demo**: [Link to demo](https://todo-apps-with-drag-and-drop.vercel.app/)
   
 ### 🎯 [Memory Game]
 **Description**: Memory game to sharpen the memory.
 - **Tech Stack**: MongoDB, Express.js, React, Node.js
-- **Features**: Key features of the project
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Memory-Game)
 - **Demo**: [Link to demo](https://memory-game-eta-drab.vercel.app/)
 
 ### 🎯 [TODO List Using RTK]
 **Description**: Todo List using RTK.
 - **Tech Stack**: React, CSS, RTK
-- **Features**: Key features of the project
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/RTK-Todo)
 - **Demo**: [Link to demo](https://rtk-todo-g1g2.vercel.app/)
 
