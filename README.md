@@ -22,12 +22,6 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/MERN-stack-Todo-App)
 - **Demo**: [Link to demo](https://mern-stack-todo-app-rouge.vercel.app/login)
     
-### 🎯 [Todo App]
-**Description**: Todo board with Drag and drop functionality.
-- **Tech Stack**: React, CSS
-- **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Todo-Apps-with-drag-and-drop)
-- **Demo**: [Link to demo](https://todo-apps-with-drag-and-drop.vercel.app/)
-- 
 ### 🎯 [Task Manager using React]
 **Description**: Taskmanager app using React and Tailwind.
 - **Tech Stack**: React, Tailwind CSS, Node, Express, MongoDB
@@ -39,14 +33,6 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 - **Tech Stack**: MongoDB, Express.js, React, Node.js
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Memory-Game)
 - **Demo**: [Link to demo](https://memory-game-eta-drab.vercel.app/)
-
-### 🎯 [TODO List Using RTK]
-**Description**: Todo List using RTK.
-- **Tech Stack**: React, CSS, RTK
-- **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/RTK-Todo)
-- **Demo**: [Link to demo](https://rtk-todo-g1g2.vercel.app/)
-
----
 
 ## 🛠️ I code with
 
