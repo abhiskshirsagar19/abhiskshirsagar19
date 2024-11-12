@@ -21,13 +21,7 @@ Currently, I'm upskilling with **Scaler** to further deepen my knowledge in Full
 - **Tech Stack**: React, Tailwind CSS, Node, Express, MongoDB
 - **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/MERN-stack-Todo-App)
 - **Demo**: [Link to demo](https://mern-stack-todo-app-rouge.vercel.app/login)
-    
-### 🎯 [Task Manager using React]
-**Description**: Taskmanager app using React and Tailwind.
-- **Tech Stack**: React, Tailwind CSS, Node, Express, MongoDB
-- **Repo**: [Link to repository](https://github.com/abhiskshirsagar19/Task-Manager-App)
-- **Demo**: [Link to demo](https://task-manager-app-weld.vercel.app/)
-    
+       
 ### 🎯 [Memory Game]
 **Description**: Memory game to sharpen the memory.
 - **Tech Stack**: MongoDB, Express.js, React, Node.js
